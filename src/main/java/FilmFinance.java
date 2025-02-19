@@ -1,8 +1,10 @@
 package ExternalTeamsInterface;
+
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import java.math.BigDecimal;
 
-public interface film_finance {
+
+public interface FilmFinance {
 
     // Logs the cost of a film with its title and cost value
     void logFilmCost(String filmTitle, BigDecimal cost);
@@ -10,4 +12,3 @@ public interface film_finance {
     ArrayNode retrieveTicketSalesData(String filmTitle);
 
 }
-

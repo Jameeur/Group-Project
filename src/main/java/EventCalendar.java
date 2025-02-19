@@ -1,7 +1,7 @@
 package ExternalTeamsInterface;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 
-public interface event_calendar {
+public interface EventCalendar {
 
     ArrayNode getAvailableTimeSlots(String date);
 
@@ -10,6 +10,3 @@ public interface event_calendar {
     void notifyAvailability(String date, String startTime, String endTime);
 
 }
-
-
-

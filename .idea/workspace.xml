@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f7fab64-b6be-4481-b4a2-d19c11c98b98" name="Changes" comment="added a new interface film_finance.java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/VenueManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EventCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FilmFinance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RevenueTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReviewAccess.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/film_finance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/film_finance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/event_calendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/film_finance.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739821706849</updated>
-      <workItem from="1739989647673" duration="6216000" />
+      <workItem from="1739989647673" duration="7142000" />
     </task>
     <task id="LOCAL-00001" summary="added new interface event calendar.">
       <option name="closed" value="true" />
@@ -101,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739994477054</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added a new interface film_finance.java">
+      <option name="closed" value="true" />
+      <created>1739996061911</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739996061911</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
