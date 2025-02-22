@@ -1,5 +1,4 @@
 package ExternalTeamsInterface;
-import com.fasterxml.jackson.databind.node.ArrayNode;
 
 public interface EventCalendar {
 
