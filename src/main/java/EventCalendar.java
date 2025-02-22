@@ -9,4 +9,14 @@ public interface EventCalendar {
 
     void notifyAvailability(String date, String startTime, String endTime);
 
+    double getEventCost(int eventId);
+
+    Connection connectToDatabase();
+
+    List<Events> getAvailableEvents();
+
+    List<Timeslot> getAvailableEvents(String name);
+
+    boolean bookEvents(int eventId, String eventName)
+
 }
